@@ -9,7 +9,7 @@ Screenshots:
 ![Sale details](https://github.com/KryptonB/inventory-management-system/blob/master/screenshots/sale.PNG)  
 ![Search details](https://github.com/KryptonB/inventory-management-system/blob/master/screenshots/search.PNG)
 
-## Installation
+## HOW TO USE LOCALLY
 
 - Download XAMPP
   - Link: https://www.apachefriends.org/download.html
